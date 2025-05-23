@@ -1,1 +1,22 @@
 
+payload:
+  - DOMAIN-SUFFIX,kvod7.com
+  - DOMAIN-SUFFIX,qtjewg.cn
+  
+  - IP-CIDR,137.175.26.0/24,no-resolve
+  - IP-CIDR,137.175.57.0/24,no-resolve
+  - IP-CIDR,38.33.199.0/24,no-resolve
+  - IP-CIDR,142.0.143.0/24,no-resolve
+  - IP-CIDR,137.175.61.0/24,no-resolve
+  - IP-CIDR,142.4.126.0/24,no-resolve
+  - IP-CIDR,142.0.141.0/24,no-resolve
+  - IP-CIDR,137.175.34.0/24,no-resolve
+  - IP-CIDR,137.175.47.0/24,no-resolve
+  - IP-CIDR,137.175.16.0/24,no-resolve
+  - IP-CIDR,137.175.52.0/24,no-resolve
+  - IP-CIDR,107.148.194.0/24,no-resolve
+  - IP-CIDR,107.148.206.0/24,no-resolve
+  - IP-CIDR,107.149.229.0/24,no-resolve
+  - IP-CIDR,137.175.4.0/24,no-resolve
+  - IP-CIDR,199.188.106.0/24,no-resolve
+  - IP-CIDR,192.74.235.0/24,no-resolve
