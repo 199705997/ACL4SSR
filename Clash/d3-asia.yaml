@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,battle.net
   - DOMAIN-SUFFIX,battlenet.com
   - DOMAIN-SUFFIX,blizzard.com
+  - DOMAIN-SUFFIX,blizzard.gcdn.cloudn.co.kr
 
   - IP-CIDR,12.129.228.0/24,no-resolve
   - IP-CIDR,12.129.236.0/24,no-resolve
