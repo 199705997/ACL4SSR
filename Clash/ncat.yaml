@@ -24,3 +24,4 @@ payload:
   - IP-CIDR,199.188.106.0/24,no-resolve
   - IP-CIDR,192.74.235.0/24,no-resolve
   - IP-CIDR,137.175.38.0/24,no-resolve
+  - IP-CIDR,223.111.117.0/24,no-resolve
