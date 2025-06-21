@@ -2,6 +2,10 @@ payload:
   - DOMAIN-SUFFIX,kvod7.com
   - DOMAIN-SUFFIX,qtjewg.cn
   - DOMAIN-SUFFIX,cyesdg.com
+  - DOMAIN-SUFFIX,hhevox.cn
+
+
+
   
   - IP-CIDR,137.175.26.0/24,no-resolve
   - IP-CIDR,137.175.57.0/24,no-resolve
