@@ -542,13 +542,3 @@ http://192.168.10.2:5140/rtp/239.93.20.5:7000?fcc=182.138.3.103:15970
 http://192.168.10.2:5140/rtp/239.93.21.24:7070?fcc=182.138.3.103:15970
 
 
-
-
-
-#EXTINF:-1 tvg-id="500" tvg-name="凤凰卫视中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视中文.png" group-title="卫星电视",凤凰卫视中文台HD
-http://192.168.10.2:5140/rtp/239.93.10.31:8012
-#EXTINF:-1 tvg-id="501" tvg-name="凤凰卫视资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视资讯.png" group-title="卫星电视",凤凰卫视资讯台HD
-http://192.168.10.2:5140/rtp/239.93.10.118:8708
-#EXTINF:-1 tvg-id="502" tvg-name="星空卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星空卫视.png" group-title="卫星电视",星空卫视
-http://192.168.10.2:5140/rtp/239.93.10.190:9612
-#EXTINF:-1 tvg-id="503" tvg-name="CHANNELV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHANNELV.png" group-title="卫星电视",Channel[V]
