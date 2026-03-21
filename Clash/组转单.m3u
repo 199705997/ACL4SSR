@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://gitee.com/mytv-android/myepg/raw/master/output/epg.gz"
 
-#EXTINF:-1 tvg-id="CCTV1高清" tvg-name="CCTV1高清" tvg-logo="https://example.com/logo/CCTV1.png" catchup="default" catchup-source="rtsp://125.66.40.196:554/live/ch17010411112850593740.sdp?playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV1高清 
+#EXTINF:-1 tvg-id="CCTV1高清" tvg-name="CCTV1高清" tvg-logo="https://example.com/logo/CCTV1.png" catchup="default" catchup-source="rtsp://182.134.43.42/PLTV/88888896/224/3221228807/10000100000000060000000003732597_0.smil?playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV1高清 
 http://192.168.10.2:5140/rtp/239.93.20.133:9260?fcc=182.138.3.103:15970
 
 #EXTINF:-1 tvg-id="CCTV2高清" tvg-name="CCTV2高清" tvg-logo="https://example.com/logo/CCTV2.png" catchup="default" catchup-source="rtsp://125.66.40.196:554/live/ch17020716350406789722.sdp?playseek={utc:YmdHMS}-{utcend:YmdHMS}"",CCTV2高清 
